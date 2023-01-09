@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "pretty-bytes": "^5.3.0",
-    "terminal-kit": "^1.33.10",
+    "terminal-kit": "^1.49.4",
     "webtorrent": "^0.107.17",
     "yargs": "^15.1.0"
   }
